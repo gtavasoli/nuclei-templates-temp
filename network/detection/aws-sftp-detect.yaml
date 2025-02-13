@@ -24,7 +24,7 @@ tcp:
     matchers:
       - type: regex
         regex:
-          - '(?i)AWS_SFTP'
+          - '(?i)AWS_SFTP2'
 
     extractors:
       - type: regex
