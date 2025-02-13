@@ -20,7 +20,7 @@ tcp:
     port: 79
 
     matchers:
-      - type: word
+      - type: word2
         part: body
         words:
           - "User"
